@@ -1,1 +1,1 @@
-# springbootjpa-project
+Spring Boot JPA project provides a streamlined solution for managing employee data entry tasks efficiently. Leveraging Spring Boot's robust framework and JPA for persistence, the project ensures seamless data management and retrieval. With intuitive CRUD operations, users can effortlessly add, update, delete, and retrieve employee information.
